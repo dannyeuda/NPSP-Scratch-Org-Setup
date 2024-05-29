@@ -1,0 +1,44 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "CurrencyType", "referenceId": "AUD" },
+      "IsoCode": "AUD",
+      "ConversionRate": 1.823819,
+      "DecimalPlaces": 2,
+      "IsCorporate": false,
+      "IsActive": true
+    },
+    {
+      "attributes": { "type": "CurrencyType", "referenceId": "CAD" },
+      "IsoCode": "CAD",
+      "ConversionRate": 1.7427,
+      "DecimalPlaces": 2,
+      "IsCorporate": false,
+      "IsActive": true
+    },
+    {
+      "attributes": { "type": "CurrencyType", "referenceId": "EUR" },
+      "IsoCode": "EUR",
+      "ConversionRate": 1.1,
+      "DecimalPlaces": 2,
+      "IsCorporate": false,
+      "IsActive": true
+    },
+    {
+      "attributes": { "type": "CurrencyType", "referenceId": "USD" },
+      "IsoCode": "USD",
+      "ConversionRate": 1.332399,
+      "DecimalPlaces": 2,
+      "IsCorporate": false,
+      "IsActive": true
+    },
+    {
+      "attributes": { "type": "CurrencyType", "referenceId": "ZAR" },
+      "IsoCode": "ZAR",
+      "ConversionRate": 17.21,
+      "DecimalPlaces": 2,
+      "IsCorporate": false,
+      "IsActive": true
+    }
+  ]
+}

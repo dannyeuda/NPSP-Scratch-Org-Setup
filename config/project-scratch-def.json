@@ -1,0 +1,19 @@
+{
+  "orgName": "Xtend Global",
+  "edition": "Developer",
+  "features": ["DevOpsCenter", "Communities"],
+  "settings": {
+    "devHubSettings": {
+      "enableDevOpsCenterGA": true
+    },
+    "currencySettings": {
+      "enableMultiCurrency": false
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "EmailAdministrationSettings": {
+      "sendTextOnlySystemEmails": false
+    }
+  }
+}
